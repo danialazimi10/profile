@@ -1,9 +1,9 @@
 ### your site title here
 
 title: Danial Azimi
-description:  University of Bologna | Artificial Intelligence Master\'
+description:  Artificial Intelligence at the University of Bologna 
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /profile #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
