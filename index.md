@@ -17,4 +17,4 @@ I like to work on both theoretical and practical aspects of AI, and I shift my f
 
 ### Also, check out:
 
-- [autoCV](https://github.com/danialazimi10) - Check out my latest public projects on my GitHub page.
+- [Github](https://github.com/danialazimi10) - Check out my latest public projects on my GitHub page.
