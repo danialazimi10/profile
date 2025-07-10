@@ -7,15 +7,14 @@ profile:
 published: true
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+### Bio
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+I am a Master's student of Artificial Intelligence at the University of Bologna (starting in 2025), working on various Machine Learning projects. Before that, I was a Computer Science undergraduate student at Shahid Beheshti University of Tehran. (2020-2025)
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+Today, I am especially interested in computer vision and real-time machine learning problems. I also follow innovations in neuro-AI.
 
-PS: If you liked the theme, do star it on GitHub!
+I like to work on both theoretical and practical aspects of AI, and I shift my focus from time to time to handle projects properly.
 
 ### Also, check out:
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+- [autoCV](https://github.com/danialazimi10) - Check out my latest public projects on my GitHub page.
